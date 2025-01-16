@@ -1,4 +1,34 @@
+asgiref==3.8.1
+certifi==2024.12.14
+charset-normalizer==3.4.1
+Django==5.1.4
+django-cors-headers==4.6.0
+django-jazzmin==3.0.1
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+idna==3.10
+pillow==11.0.0
+psycopg2==2.9.10
+PyJWT==2.10.1
+python-decouple==3.8
+requests==2.32.3
+sqlparse==0.5.2
+stripe==11.4.1
+typing_extensions==4.12.2
+tzdata==2024.2
+urllib3==2.3.0
+whitenoise==6.8.2
+
+
+
+.pip install django
 .pip install djangorestframework
 .pip install django-cors-headers
 .pip install Pillow
 .pip install whitenoise
+.pip install psycopg2
+.pip install djangorestframework-simplejwt
+.pip install stripe
+.pip install -U django-jazzmin
+.pip install python-decouple
+
